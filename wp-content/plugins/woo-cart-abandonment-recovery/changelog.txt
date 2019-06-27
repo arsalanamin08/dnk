@@ -1,0 +1,16 @@
+Version 1.1.2 - Wednesday, 12th June 2019
+- Fix: Issue of timezone while sending mail through cron.
+- Fix: Delete single cart abandonment order.
+- Fix: MySql 5.5 support for CURRENT_TIMESTAMP.
+
+Version 1.1.1 - Thursday, 06th June 2019
+- New: Added feature to reschedule emails for Admin.
+- Fix: Coupon expiry time issue.
+- Fix: Email issue for a user who has an already purchased order.
+- Fix: Translatable strings updated.
+
+Version 1.1.0 - Thursday, 30th May 2019
+- Added a view for admin to check email status specific to the particular abandoned user.
+
+Version 1.0.0 - Monday, 27th May 2019
+- Initial Release
